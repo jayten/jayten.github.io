@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jatinder Pal</title>
+    <link>https://jatinderpal.com/home/</link>
+    <description>Recent content in Homes on Jatinder Pal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://jatinderpal.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jatinderpal.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/about/</guid>
+      <description>Biography I am a direct Ph.D. student, pursuing my doctorate in the field of computational fluid dynamics under the guidance of Dr. Santanu Ghosh in the Department of Aerospace Engineering at the Indian Institute of Technology (IIT) Madras, Chennai. Part of my Ph.D. study involves the development of three-dimensional Navier-stokes solver for the structured grid using FORTRAN 90 (FEST3D). The aim of my work is to predict, accurately and effectively, the flow around a body using numerical methods.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://jatinderpal.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://jatinderpal.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jatinderpal.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://jatinderpal.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jatinderpal.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://jatinderpal.com/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jatinderpal.com/home/contact/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

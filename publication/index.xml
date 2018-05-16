@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jatinder Pal</title>
+    <link>https://jatinderpal.com/publication/</link>
+    <description>Recent content in Publications on Jatinder Pal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://jatinderpal.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluation of Ramp-Type Micro Vortex Generators Using Swirl Center Tracking (Under Review)</title>
+      <link>https://jatinderpal.com/publication/2018aiaajour/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/publication/2018aiaajour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A convergence study of solutions using two two-equation RANS turbulence models on a finite volume solver for structured grids</title>
+      <link>https://jatinderpal.com/publication/2018aiaaconf/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/publication/2018aiaaconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Some Wedge-shaped Vortex Generators Using Swirl Center Tracking</title>
+      <link>https://jatinderpal.com/publication/2016aiaaconf/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/publication/2016aiaaconf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
