@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://jatinderpal.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://jatinderpal.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate>
       
       <guid>https://jatinderpal.com/home/about/</guid>
       <description>Biography I am a direct Ph.D. student, pursuing my doctorate in the field of computational fluid dynamics under the guidance of Dr. Santanu Ghosh in the Department of Aerospace Engineering at the Indian Institute of Technology (IIT) Madras, Chennai. Part of my Ph.D. study involves the development of three-dimensional Navier-stokes solver for the structured grid using FORTRAN 90 (FEST3D). The aim of my work is to predict, accurately and effectively, the flow around a body using numerical methods.</description>

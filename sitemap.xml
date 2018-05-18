@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>https://jatinderpal.com/project/fest3d/</loc>
+      <lastmod>2017-04-27T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://jatinderpal.com/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
@@ -86,15 +95,6 @@
     
     <url>
     
-      <loc>https://jatinderpal.com/project/fest3d/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://jatinderpal.com/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+05:30</lastmod>
     </url>
@@ -134,17 +134,7 @@
     <url>
     
       <loc>https://jatinderpal.com/tags/code/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://jatinderpal.com/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <lastmod>2017-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,7 +144,7 @@
     <url>
     
       <loc>https://jatinderpal.com/tags/fest3d/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <lastmod>2017-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -164,7 +154,7 @@
     <url>
     
       <loc>https://jatinderpal.com/</loc>
-      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+      <lastmod>2018-05-01T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -174,7 +164,7 @@
     <url>
     
       <loc>https://jatinderpal.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <lastmod>2017-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -195,6 +185,16 @@
     
       <loc>https://jatinderpal.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jatinderpal.com/tags/vortex-generator/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jatinder Pal</title>
-    <link>https://jatinderpal.com/project/</link>
-    <description>Recent content in Projects on Jatinder Pal</description>
+    <title>Vortex-generator on Jatinder Pal</title>
+    <link>https://jatinderpal.com/tags/vortex-generator/</link>
+    <description>Recent content in Vortex-generator on Jatinder Pal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://jatinderpal.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jatinderpal.com/tags/vortex-generator/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>FEST3D</title>
-      <link>https://jatinderpal.com/project/fest3d/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://jatinderpal.com/project/fest3d/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Vortex Generator</title>
