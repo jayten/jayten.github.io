@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD on Jatinder Pal</title>
+    <link>https://jatinderpal.com/categories/cfd/</link>
+    <description>Recent content in CFD on Jatinder Pal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 18:37:24 +0530</lastBuildDate>
+    
+	<atom:link href="https://jatinderpal.com/categories/cfd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LU-SGS</title>
+      <link>https://jatinderpal.com/post/lusgs/</link>
+      <pubDate>Wed, 19 Sep 2018 18:37:24 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/post/lusgs/</guid>
+      <description>Lower Upper Symmertic Gauss Sidel method is matrix free implicit time-integration scheme. If we spatilly discretize any governing eqution; using any one of the well known methods: Finite difference method, Finite Volume method, Finite element method, etc; we as left with system of odinary differential equations. $$V\frac{dU_i}{dt} = R_i^{n+1}$$ Where, &amp;ldquo;$i$&amp;rdquo; represents the cell center or cell node point based on the spatial discrtization method. U and R are the state and residual vector stored at spatial point &amp;ldquo;$i$&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

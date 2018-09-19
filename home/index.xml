@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://jatinderpal.com/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://jatinderpal.com/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/hero_carousel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -31,11 +40,29 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://jatinderpal.com/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Publications</title>
       <link>https://jatinderpal.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://jatinderpal.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://jatinderpal.com/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/talks_selected/</guid>
       <description></description>
     </item>
     
@@ -67,11 +94,30 @@
     </item>
     
     <item>
+      <title>Custom Section</title>
+      <link>https://jatinderpal.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>https://jatinderpal.com/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
       <guid>https://jatinderpal.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://jatinderpal.com/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/home/search/</guid>
       <description></description>
     </item>
     

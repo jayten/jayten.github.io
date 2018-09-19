@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LU-SGS</title>
+      <link>https://jatinderpal.com/post/lusgs/</link>
+      <pubDate>Wed, 19 Sep 2018 18:37:24 +0530</pubDate>
+      
+      <guid>https://jatinderpal.com/post/lusgs/</guid>
+      <description>&lt;p&gt;Lower Upper Symmertic Gauss Sidel method is matrix free implicit time-integration scheme.
+If we spatilly discretize any governing eqution; using any one of the well known methods: Finite difference method, Finite Volume method, Finite element method, etc; we as left with system of odinary differential equations.
+$$V\frac{dU_i}{dt} = R_i^{n+1}$$
+Where, &amp;ldquo;$i$&amp;rdquo; represents the cell center or cell node point based on the spatial discrtization method.
+U and R are the state  and residual vector stored at spatial point &amp;ldquo;$i$&amp;rdquo;. $V$ represents the volume of the cell.
+To integrate this system of ODE we can use Euler time integration scheme:
+$$V\frac{\Delta U^n_i}{\Delta t} = R_i^{n+1}$$
+Where $\Delta t$ is the time increment and $\Delta U^n_i$ represents the difference between state vector at time level $n+1$ and $n$: $U^{n+1}_i - U^n_i$. Since $R^{n+1}_i$ is unkonw, we linearize the above equation to approximate unknown quantity, $R^{n+1}_i$ in terms of known quantities.
+$$V\frac{\Delta U^n_i}{\Delta t} = R_i^{n} + \left(\frac{\partial R}{\partial U}\right)^n\Delta U_i^n$$
+Rearranging the above equation to combine all the $\Delta U^n_i$ terms:
+$$\left(\frac{V}{\Delta t} + \left(\frac{\partial R}{\partial U}\right)^n\right)\Delta U_i^n  = R_i^{n}$$&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Evaluation of Ramp-Type Micro Vortex Generators Using Swirl Center Tracking</title>
